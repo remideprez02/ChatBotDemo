@@ -1,0 +1,62 @@
+c:\users\deprezremi\documents\visual studio 2017\Projects\ChatbotApp\ChatbotApp\bin\Bot Application.dll.config
+c:\users\deprezremi\documents\visual studio 2017\Projects\ChatbotApp\ChatbotApp\bin\Bot Application.dll
+c:\users\deprezremi\documents\visual studio 2017\Projects\ChatbotApp\ChatbotApp\bin\Bot Application.pdb
+c:\users\deprezremi\documents\visual studio 2017\Projects\ChatbotApp\ChatbotApp\bin\Autofac.dll
+c:\users\deprezremi\documents\visual studio 2017\Projects\ChatbotApp\ChatbotApp\bin\Chronic.dll
+c:\users\deprezremi\documents\visual studio 2017\Projects\ChatbotApp\ChatbotApp\bin\Microsoft.Bot.Builder.Autofac.dll
+c:\users\deprezremi\documents\visual studio 2017\Projects\ChatbotApp\ChatbotApp\bin\Microsoft.Bot.Builder.dll
+c:\users\deprezremi\documents\visual studio 2017\Projects\ChatbotApp\ChatbotApp\bin\Microsoft.Bot.Connector.dll
+c:\users\deprezremi\documents\visual studio 2017\Projects\ChatbotApp\ChatbotApp\bin\Microsoft.IdentityModel.Logging.dll
+c:\users\deprezremi\documents\visual studio 2017\Projects\ChatbotApp\ChatbotApp\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+c:\users\deprezremi\documents\visual studio 2017\Projects\ChatbotApp\ChatbotApp\bin\Microsoft.IdentityModel.Protocols.dll
+c:\users\deprezremi\documents\visual studio 2017\Projects\ChatbotApp\ChatbotApp\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+c:\users\deprezremi\documents\visual studio 2017\Projects\ChatbotApp\ChatbotApp\bin\Microsoft.IdentityModel.Tokens.dll
+c:\users\deprezremi\documents\visual studio 2017\Projects\ChatbotApp\ChatbotApp\bin\Microsoft.Rest.ClientRuntime.dll
+c:\users\deprezremi\documents\visual studio 2017\Projects\ChatbotApp\ChatbotApp\bin\Microsoft.WindowsAzure.Configuration.dll
+c:\users\deprezremi\documents\visual studio 2017\Projects\ChatbotApp\ChatbotApp\bin\Newtonsoft.Json.dll
+c:\users\deprezremi\documents\visual studio 2017\Projects\ChatbotApp\ChatbotApp\bin\System.IdentityModel.Tokens.Jwt.dll
+c:\users\deprezremi\documents\visual studio 2017\Projects\ChatbotApp\ChatbotApp\bin\System.Net.Http.Formatting.dll
+c:\users\deprezremi\documents\visual studio 2017\Projects\ChatbotApp\ChatbotApp\bin\System.Web.Http.dll
+c:\users\deprezremi\documents\visual studio 2017\Projects\ChatbotApp\ChatbotApp\bin\System.Web.Http.WebHost.dll
+c:\users\deprezremi\documents\visual studio 2017\Projects\ChatbotApp\ChatbotApp\bin\Autofac.xml
+c:\users\deprezremi\documents\visual studio 2017\Projects\ChatbotApp\ChatbotApp\bin\Microsoft.Bot.Builder.xml
+c:\users\deprezremi\documents\visual studio 2017\Projects\ChatbotApp\ChatbotApp\bin\Microsoft.Bot.Builder.Autofac.xml
+c:\users\deprezremi\documents\visual studio 2017\Projects\ChatbotApp\ChatbotApp\bin\Microsoft.Bot.Connector.xml
+c:\users\deprezremi\documents\visual studio 2017\Projects\ChatbotApp\ChatbotApp\bin\Microsoft.IdentityModel.Logging.xml
+c:\users\deprezremi\documents\visual studio 2017\Projects\ChatbotApp\ChatbotApp\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+c:\users\deprezremi\documents\visual studio 2017\Projects\ChatbotApp\ChatbotApp\bin\Microsoft.IdentityModel.Protocols.xml
+c:\users\deprezremi\documents\visual studio 2017\Projects\ChatbotApp\ChatbotApp\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+c:\users\deprezremi\documents\visual studio 2017\Projects\ChatbotApp\ChatbotApp\bin\Microsoft.IdentityModel.Tokens.xml
+c:\users\deprezremi\documents\visual studio 2017\Projects\ChatbotApp\ChatbotApp\bin\Microsoft.WindowsAzure.Configuration.xml
+c:\users\deprezremi\documents\visual studio 2017\Projects\ChatbotApp\ChatbotApp\bin\Newtonsoft.Json.xml
+c:\users\deprezremi\documents\visual studio 2017\Projects\ChatbotApp\ChatbotApp\bin\System.IdentityModel.Tokens.Jwt.xml
+c:\users\deprezremi\documents\visual studio 2017\Projects\ChatbotApp\ChatbotApp\bin\System.Net.Http.Formatting.xml
+c:\users\deprezremi\documents\visual studio 2017\Projects\ChatbotApp\ChatbotApp\bin\System.Web.Http.xml
+c:\users\deprezremi\documents\visual studio 2017\Projects\ChatbotApp\ChatbotApp\bin\System.Web.Http.WebHost.xml
+c:\users\deprezremi\documents\visual studio 2017\Projects\ChatbotApp\ChatbotApp\bin\ar\Microsoft.Bot.Builder.resources.dll
+c:\users\deprezremi\documents\visual studio 2017\Projects\ChatbotApp\ChatbotApp\bin\cs\Microsoft.Bot.Builder.resources.dll
+c:\users\deprezremi\documents\visual studio 2017\Projects\ChatbotApp\ChatbotApp\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+c:\users\deprezremi\documents\visual studio 2017\Projects\ChatbotApp\ChatbotApp\bin\en\Microsoft.Bot.Builder.resources.dll
+c:\users\deprezremi\documents\visual studio 2017\Projects\ChatbotApp\ChatbotApp\bin\es\Microsoft.Bot.Builder.resources.dll
+c:\users\deprezremi\documents\visual studio 2017\Projects\ChatbotApp\ChatbotApp\bin\fa\Microsoft.Bot.Builder.resources.dll
+c:\users\deprezremi\documents\visual studio 2017\Projects\ChatbotApp\ChatbotApp\bin\fr\Microsoft.Bot.Builder.resources.dll
+c:\users\deprezremi\documents\visual studio 2017\Projects\ChatbotApp\ChatbotApp\bin\it\Microsoft.Bot.Builder.resources.dll
+c:\users\deprezremi\documents\visual studio 2017\Projects\ChatbotApp\ChatbotApp\bin\ja\Microsoft.Bot.Builder.resources.dll
+c:\users\deprezremi\documents\visual studio 2017\Projects\ChatbotApp\ChatbotApp\bin\nl\Microsoft.Bot.Builder.resources.dll
+c:\users\deprezremi\documents\visual studio 2017\Projects\ChatbotApp\ChatbotApp\bin\pt-BR\Microsoft.Bot.Builder.resources.dll
+c:\users\deprezremi\documents\visual studio 2017\Projects\ChatbotApp\ChatbotApp\bin\ru\Microsoft.Bot.Builder.resources.dll
+c:\users\deprezremi\documents\visual studio 2017\Projects\ChatbotApp\ChatbotApp\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+c:\users\deprezremi\documents\visual studio 2017\Projects\ChatbotApp\ChatbotApp\obj\Debug\ChatbotApp.csprojResolveAssemblyReference.cache
+c:\users\deprezremi\documents\visual studio 2017\Projects\ChatbotApp\ChatbotApp\obj\Debug\ChatbotApp.csproj.CoreCompileInputs.cache
+c:\users\deprezremi\documents\visual studio 2017\Projects\ChatbotApp\ChatbotApp\obj\Debug\Bot Application.dll
+c:\users\deprezremi\documents\visual studio 2017\Projects\ChatbotApp\ChatbotApp\obj\Debug\Bot Application.pdb
+C:\Users\DeprezRemi\documents\visual studio 2017\Projects\ChatbotApp\ChatbotApp\bin\System.ValueTuple.dll
+C:\Users\DeprezRemi\documents\visual studio 2017\Projects\ChatbotApp\ChatbotApp\bin\System.ValueTuple.xml
+C:\Users\DeprezRemi\documents\visual studio 2017\Projects\ChatbotApp\ChatbotApp\bin\Microsoft.Azure.CognitiveServices.Language.dll
+C:\Users\DeprezRemi\documents\visual studio 2017\Projects\ChatbotApp\ChatbotApp\bin\Microsoft.Rest.ClientRuntime.Azure.dll
+C:\Users\DeprezRemi\documents\visual studio 2017\Projects\ChatbotApp\ChatbotApp\bin\Microsoft.Azure.CognitiveServices.Language.xml
+C:\Users\DeprezRemi\documents\visual studio 2017\Projects\ChatbotApp\ChatbotApp\bin\Microsoft.Rest.ClientRuntime.xml
+C:\Users\DeprezRemi\documents\visual studio 2017\Projects\ChatbotApp\ChatbotApp\bin\Microsoft.Rest.ClientRuntime.Azure.xml
+C:\Users\DeprezRemi\documents\visual studio 2017\Projects\ChatbotApp\ChatbotApp\bin\Wikipedia.NET.dll
+C:\Users\DeprezRemi\documents\visual studio 2017\Projects\ChatbotApp\ChatbotApp\bin\RestSharp.dll
+C:\Users\DeprezRemi\documents\visual studio 2017\Projects\ChatbotApp\ChatbotApp\bin\Wikipedia.NET.pdb
